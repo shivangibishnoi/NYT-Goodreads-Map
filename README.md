@@ -1,6 +1,6 @@
 # NYT-Goodreads-Map
 
-We will make a map showing the New York Times Bestselling authors for the "Combined Print & E-Book" category since its inception in February 2011.
+We will make a map showing the New York Times Bestselling authors for the "Combined Print & E-Book" category since its inception in February 2011. The final map also shows how the authors' NYT bestsellers have fared on Goodreads as their average ratings across their NYT bestsellers (if there are multiple).
 
 It works in the following order:
 
