@@ -10,4 +10,4 @@ It works in the following order:
 4. ```geolocating_authors.ipynb``` uses the Google Maps API to find the cooridnates of the authors' birthplaces to build our map
 5. ```data_cleaning.ipnyb``` cleans the text of the columns
 6. ```mapbox-data-prep.ipynb``` aggregates the data and prepares it for the map
-7. The subfolder ```Maps Stuff``` contains the final data files and html to create the map 
+7. The subfolder ```docs``` contains the final data files and html to create the map 
